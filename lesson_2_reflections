@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	git files are created to track changes to directory, to use git with the directory.
